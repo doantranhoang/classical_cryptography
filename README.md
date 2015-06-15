@@ -12,4 +12,4 @@ $ cd classical_cryptography
 
 - [Vigenere Cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
 
-![Vigenere Cipher Demo](https://raw.githubusercontent.com/doantranhoang/classical_cryptography/development/images/github_vigenere_crypto.png)
+![Vigenere Cipher Demo](https://raw.githubusercontent.com/doantranhoang/classical_cryptography/development/images/github_vigenere_cipher.png)
