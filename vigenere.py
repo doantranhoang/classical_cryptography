@@ -69,7 +69,7 @@ def __main__():
 		print '[+] => E(k, m)\t= %s' %vigenere.encrypt(sys.argv[3]) # encrypt message
 	elif (sys.argv[1].strip() == 'dec'):
 		print "[+] Key k\t= %s\n[+] Cipher c\t= %s" %(sys.argv[2].upper(), sys.argv[3].upper())
-		print '[+] => D(k, c)\t= %s' %vigenere.decrypt(sys.argv[3]) # encrypt message
+		print '[+] => D(k, c)\t= %s' %vigenere.decrypt(sys.argv[3]) # decrypt message
 	else:
 		print '[+] Error: Action invalid! "enc" or "dec"?'
 
